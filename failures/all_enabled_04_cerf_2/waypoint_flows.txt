@@ -1,0 +1,5 @@
+src,dst,src_ip,dst_ip,sport,dport,protocol,target,tos
+LIS_h0,THE_h0,10.0.12.1,10.0.23.1,301,309,udp,FRA,9
+AMS_h0,BUC_h0,10.0.1.1,10.0.7.1,302,310,udp,MIL,17
+GEN_h0,PRA_h0,10.0.10.1,10.0.20.1,303,311,udp,BUD,8
+WAR_h0,MAD_h0,10.0.25.1,10.0.15.1,304,312,udp,PAR,18
